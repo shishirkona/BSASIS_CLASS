@@ -1,2 +1,2 @@
-BSASIS_CLASS
-============
+Responsive Webdesign
+=====================
